@@ -1,0 +1,22 @@
+{
+  "name": "lunr-index-builder",
+  "version": "1.0.0",
+  "description": "Build an index from a JSON file and export the index (as a JSON string) for quick loading on the server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test passed",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lunr",
+    "index",
+    "search",
+    "javascript",
+    "node"
+  ],
+  "author": "Lyle Denman",
+  "license": "ISC",
+  "dependencies": {
+    "lunr": "^1.0.0"
+  }
+}
